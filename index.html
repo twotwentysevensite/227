@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>TwoTwentySeven - Australian Election Analysis</title>
+<style>
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+* {
+	font-family: ubuntu;
+}
+</style>
+</head>
+<body>
+<div id="pollingChart"></div>
+<h1>Polling Aggregation</h1>
+<table style="width:600px;">
+<tr>
+<th><b>Party</b></th>
+<th><b>Two-Party-Preferred Based on Polling</b></th>
+</tr>
+<tr>
+<th><b>LNP</b></th>
+<th id="LNP_final"></th>
+</tr>
+<tr>
+<th><b>ALP</b></th>
+<th id="ALP_final"></th>
+</tr>
+</table>
+<script src="static/js/jquery.js"></script>
+<script src='static/js/plotly.js'></script>
+<script src="static/js/graph.js"></script>
+</body>
+</html>

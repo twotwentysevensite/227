@@ -1,0 +1,228 @@
+[
+	{
+		"date": "8 August 2020",
+		"LNP": 52,
+		"ALP": 48,
+		"UND": 0,
+		"firm": "Newspoll",
+		"sample": 1509,
+		"sample": null
+	},
+	{
+		"date": "10 August 2020",
+		"LNP": 46,
+		"ALP": 44,
+		"UND": 10,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "16 August 2020",
+		"LNP": 54,
+		"ALP": 46,
+		"UND": 0,
+		"firm": "Morgan Poll",
+		"sample": 2841,
+		"sample": null
+	},
+	{
+		"date": "24 August 2020",
+		"LNP": 47,
+		"ALP": 45,
+		"UND": 7,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "29 August 2020",
+		"LNP": 50,
+		"ALP": 50,
+		"UND": 0,
+		"firm": "Newspoll",
+		"sample": 1507
+	},
+	{
+		"date": "7 September 2020",
+		"LNP": 45,
+		"ALP": 47,
+		"UND": 8,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "19 September 2020",
+		"LNP": 51,
+		"ALP": 49,
+		"UND": 0,
+		"firm": "Newspoll",
+		"sample": 2068
+	},
+	{
+		"date": "21 September 2020",
+		"LNP": 49,
+		"ALP": 42,
+		"UND": 8,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "5 October 2020",
+		"LNP": 47,
+		"ALP": 46,
+		"UND": 7,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "10 October 2020",
+		"LNP": 52,
+		"ALP": 48,
+		"UND": 0,
+		"firm": "Newspoll",
+		"sample": 1527
+	},
+	{
+		"date": "12 October 2020",
+		"LNP": 47,
+		"ALP": 44,
+		"UND": 9,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "19 October 2020",
+		"LNP": 48,
+		"ALP": 45,
+		"UND": 8,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "2 November 2020",
+		"LNP": 44,
+		"ALP": 46,
+		"UND": 9,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "7 November 2020",
+		"LNP": 51,
+		"ALP": 49,
+		"UND": 0,
+		"firm": "Newspoll",
+		"sample": 1510
+	},
+	{
+		"date": "16 November 2020",
+		"LNP": 47,
+		"ALP": 45,
+		"UND": 7,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "22 November 2020",
+		"LNP": 50.5,
+		"ALP": 49.5,
+		"UND": 0,
+		"firm": "Morgan Poll",
+		"sample": 2824
+	},
+	{
+		"date": "28 November 2020",
+		"LNP": 51,
+		"ALP": 49,
+		"UND": 0,
+		"firm": "Newspoll",
+		"sample": 1511
+	},
+	{
+		"date": "30 November 2020",
+		"LNP": 43,
+		"ALP": 49,
+		"UND": 8,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "14 December 2020",
+		"LNP": 45,
+		"ALP": 46,
+		"UND": 9,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "18 January 2021",
+		"LNP": 48,
+		"ALP": 45,
+		"UND": 7,
+		"firm": "Essential",
+		"sample": null
+	},
+	{
+		"date": "30 January 2021",
+		"LNP": 50,
+		"ALP": 50,
+		"UND": 0,
+		"firm": "Newspoll",
+		"sample": 1512
+	},
+	{
+		"date": "1 February 2021",
+		"LNP": 44,
+		"ALP": 47,
+		"UND": 8,
+		"firm": "Essential",
+		"sample": 1092
+	},
+	{
+		"date": "14 February 2021",
+		"LNP": 49.5,
+		"ALP": 50.5,
+		"UND": 0,
+		"firm": "Morgan Poll",
+		"sample": 2747
+	},
+	{
+		"date": "20 February 2021",
+		"LNP": 50,
+		"ALP": 50,
+		"UND": 0,
+		"firm": "Newspoll",
+		"sample": 1504
+	},
+	{
+		"date": "13 March 2021",
+		"LNP": 48,
+		"ALP": 52,
+		"UND": 0,
+		"firm": "Newspoll",
+		"sample": 1521
+	},
+	{
+		"date": "14 March 2021",
+		"LNP": 49.5,
+		"ALP": 50.5,
+		"UND": 0,
+		"firm": "Morgan Poll",
+		"sample": 2747
+	},
+	{
+		"date": "27 March 2021",
+		"LNP": 48,
+		"ALP": 52,
+		"UND": 0,
+		"firm": "Newspoll",
+		"sample": 1517
+	},
+	{
+		"date": "24 April 2021",
+		"LNP": 49,
+		"ALP": 51,
+		"UND": 0,
+		"firm": "Newspoll",
+		"sample": 1514
+	}
+]
